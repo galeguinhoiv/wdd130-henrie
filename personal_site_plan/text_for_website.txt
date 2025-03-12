@@ -25,4 +25,7 @@ Summary of Grocery-Shopping/List
     An app for budgeting you groceries in the store
 
 About me
-    Hello, I am Jacob Henrie. I am a son of two wonderful parents, Ben and Alisa Henrie. I grew up in the wonderful south in the city of Madison, Alabama. I grew up with two wonderful siblings. Once I became an Adult I served a full-time mission for my Church, The Church of Jesus Christ of Latter Day Saints. Over the years I discovered a love of programming. This lead me to seeking a Batchelor's in Computer Science. 
+    Hello, I am Jacob Henrie. I am a son of two wonderful parents, Ben and Alisa Henrie. I grew up in the wonderful south in the city of 
+    Madison, Alabama. I grew up with two wonderful siblings. Once I became an Adult I served a full-time mission for my Church, 
+    The Church of Jesus Christ of Latter Day Saints. Over the years I discovered a love of programming. This lead me to seeking a Batchelor's 
+    in Computer Science. 
