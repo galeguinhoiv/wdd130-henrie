@@ -1,0 +1,7 @@
+Topic
+-Fighter Duel
+
+Summary
+    This is a application video game based on old fighter duels, but based in space. The basic premise is that an enemy fighter I heading straight for your station. You are sent out to stop them. You have three weapons choice, which each having pros and cons. You win if you defeat them, otherwise bad things happen.
+
+*Game art is not made yet*

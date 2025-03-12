@@ -1,0 +1,8 @@
+Topic
+-Grocery-Shopping/List prototype application
+
+Summary
+    This app will have a default mode of allow you to input in a price. It will automatically add up multiple inputs. At any time you can end the total. There will an option to add in sales tax. On the back end there will be ways to see previous data inputs.
+
+Purpose
+    This project is going to be an app based off of my experiences shopping, and how hard it is to budget the cost of groceries you need to get. I often used a calculator app to do my best. My solution to this problem is to build an app which combines the simplistic form of a calculator app with the function of a budgeting app. It will remember past prices to allow users to compare prices of grocery items to other stores or even how prices change over time.
