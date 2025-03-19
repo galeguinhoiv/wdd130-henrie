@@ -1,0 +1,31 @@
+Brainstorm Text for Websites
+    Why will people come to your site?
+        They will be coming as this is going to be fufilling two differrent roles. It will be first and foremost a place to desribe myself,
+        my interests, my skills, and who I am. Going along with that will be child pages for my persional projects that I feel deserve their own 
+        pages to describe them.
+        The first child page will be about a video game I want to make called 'Fighter Duel'
+        The second Child page will be about an app I am making. Its dev name is currently 'Grocery_shopping/List'.
+            It is going to be a simple app which does three things
+            default, record grocery items into a list alongside a price which will allow them to easily count how much they are spending on 
+            groceries
+            2, will allow you to make a grocery list for when you go shopping.  
+    What questions will your visitors expect your site to answer for them?
+    What information is necessary to cover the questions your visitors have?
+        Who am I, and what have I done.
+    Why will your visitors come to your site instead of another to get this information?
+        Well, this is going to be a personal portfolio site. The only other source of this information is going to be me.
+
+Topic
+-Information about me and what I have done
+
+Summary of Fighter Duel
+    A simple video game about dueling a fighter in the depths of space.
+
+Summary of Grocery-Shopping/List
+    An app for budgeting you groceries in the store
+
+About me
+    Hello, I am Jacob Henrie. I am a son of two wonderful parents, Ben and Alisa Henrie. I grew up in the wonderful south in the city of 
+    Madison, Alabama. I grew up with two wonderful siblings. Once I became an Adult I served a full-time mission for my Church, 
+    The Church of Jesus Christ of Latter Day Saints. Over the years I discovered a love of programming. This lead me to seeking a Batchelor's 
+    in Computer Science. 
