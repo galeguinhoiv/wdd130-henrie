@@ -15,7 +15,7 @@ header {
 .nav_1 {
     background-color: #143447;
     font-family: Chakra Petch, sans-serif;
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     width: 100%;
     height: 100px;
@@ -29,7 +29,7 @@ header {
 
 .nav_1 a:visited {
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
 
 }
 
@@ -259,7 +259,7 @@ footer {
 }
 
 .nav_2 a:hover {
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     background-color: #143447;
     text-decoration: none;
 }
