@@ -1,6 +1,6 @@
 body {
-    color: #186D9E;
-    font-family: Open Sans, Helvetica, sans-serif;
+    color: #052a65;
+    font-family: Open Sans, Arial, sans-serif;
     font-size: 18px;
 }
 
@@ -14,7 +14,7 @@ header {
 }
 
 .nav_1 {
-    background-color: #186D9E;
+    background-color: #143447;
     font-family: Chakra Petch, sans-serif;
     color: rgb(255, 255, 255);
     text-decoration: none;
@@ -35,7 +35,7 @@ header {
 }
 
 .nav_1 a:hover {
-    color: #186D9E;
+    color: #143447;
     background-color: rgb(255, 255, 255);
     text-decoration: none;
 }
@@ -120,7 +120,7 @@ header {
     grid-row: 2 / 3;
     width: 450px;
     height: 450px;
-    border: 4px solid #186D9E;
+    border: 4px solid #19257a;
     transition: .5s;
 }
 
@@ -141,7 +141,7 @@ header {
     grid-row: 2 / 3;
     width: 450px;
     height: 450px;
-    border: 4px solid #186D9E;
+    border: 4px solid #19257a;
     transition: .5s;
 }
 
@@ -217,7 +217,7 @@ h2 {
     grid-row: 2 / 3;
     object-fit: cover;
     object-position: center;
-    border: 4px solid #186D9E;
+    border: 4px solid #052a65;
 }
 
 .about_me_text {
@@ -242,7 +242,7 @@ footer {
 .nav_2 {
     text-align: center;
     font-family: Chakra Petch, sans-serif;
-    color: #186D9E;
+    color: #143447;
     text-decoration: none;
     width: 100%;
     height: 40px;
@@ -256,12 +256,12 @@ footer {
 
 .nav_2 a:visited {
     text-decoration: none;
-    color: #186D9E;
+    color: #143447;
 }
 
 .nav_2 a:hover {
     color: rgb(255, 255, 255);
-    background-color: #186D9E;
+    background-color: #143447;
     text-decoration: none;
 }
 
