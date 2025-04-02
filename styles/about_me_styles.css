@@ -43,8 +43,8 @@ header {
     margin-right: 20px;
     text-decoration: none;
     padding: 30px;
-    margin-left: 40px;
-    margin-right: 40px;
+    text-align: center;
+    width: 100%;
     transition: .5s;
 }
 
